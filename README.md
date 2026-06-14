@@ -2,7 +2,7 @@
 
 **MCP server that exposes the [OC Real Estate Intel agent](https://github.com/odanree/oc-realestate-intel) as a tool** to Claude Desktop, Claude Code, and any other MCP client. Lets you ask natural-language questions about Orange County parcels — addresses, APNs, owners, title chains, LLC portfolios — and get back grounded answers with APN citations and a Langfuse trace ID.
 
-`MCP` · `FastMCP` · `Claude Desktop` · `Claude Code` · `Anthropic` · `LangGraph (upstream)` · `Pydantic v2` · `httpx` · `respx` · `pytest-asyncio`
+`MCP` · `FastMCP` · `Claude Desktop` · `Claude Code` · `Anthropic` · `LangGraph (upstream)` · `Pydantic v2` · `pydantic-settings` · `httpx` · `respx` · `pytest-asyncio`
 
 | Tool | What it does |
 |---|---|
